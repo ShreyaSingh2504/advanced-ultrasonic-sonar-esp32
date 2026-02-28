@@ -21,10 +21,11 @@ The sensor rotates across angles while measuring distance and sends real-time da
 - Python radar visualization
 
 ---
-
 ## Hardware Setup
 
 ![Project Setup](firmware/images/4F6E02C3-C62B-4C0A-8007-4D2F450DE14C.JPG)
+
+
 ---
 
 ## Firmware
