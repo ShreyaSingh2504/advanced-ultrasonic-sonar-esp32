@@ -24,6 +24,8 @@ The sensor rotates across angles while measuring distance and sends real-time da
 ## Hardware Setup
 
 ![Project Setup](firmware/images/Project_Setup1.jpg)
+![Project Setup](firmware/images/Project_Setup2.jpg)
+![Project Setup](firmware/images/Project_Setup3.jpg)
 
 
 ---
